@@ -10,4 +10,7 @@ public class Calc {
 	public void print(String msg){
 		System.out.println(msg);
 	}
+	public void prod(int a,int b){
+		System.out.println("product="+a*b);
+	}
 }
